@@ -7,10 +7,10 @@
 <div align="center">
   <a href="https://github.com/JFooley">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfooley&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="50em" src="https://c.tenor.com/qBtt6GZRZpcAAAAC/duck-plss.gif"/>
 </div>
   
 <div align="center">
   <a href="https://www.instagram.com/gabriel.jla/" target=_blank><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=_blank></a>
   <a href="https://www.twitch.tv/jfooley" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <img src="https://c.tenor.com/qBtt6GZRZpcAAAAC/duck-plss.gif"/>
   </div>
