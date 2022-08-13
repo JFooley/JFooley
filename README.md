@@ -1,5 +1,6 @@
 ### Olá :)
 
+- 📫 Email de contato: gabriel.lima.almeida@gmail.com
 <!--
 **JFooley/JFooley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
