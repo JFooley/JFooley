@@ -1,10 +1,11 @@
-### Olá :) Meu nome é João Gabriel, sou 
+### Olá :) 
 
+- ❓ Sobre mim: Eu me chamo João Gabriel, tenho 20 anos. Sou estudante de Engenharia de Computação pela UEFS (BA), amante de gatos, Zelda's e artista nas horas vagas.
 - 📫 Email de contato: gabriel.lima.almeida@gmail.com
+- 📜 Lattes: http://lattes.cnpq.br/9228271634024411
 
 <div align="center">
   <a href="https://github.com/JFooley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfooley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfooley&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfooley&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
