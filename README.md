@@ -1,6 +1,6 @@
 ### Olá :) 
 
-- ❓ Sobre mim: Eu me chamo João Gabriel, tenho 21 anos. Sou estudante de Engenharia de Computação pela UEFS (BA), amante de gatos, Zelda e artista nas horas vagas.
+- ❓ Sobre mim: Eu me chamo João Gabriel, tenho 21 anos. Sou estudante de Engenharia de Computação pela UEFS (BA), amante de gatos, Zelda e artista nas horas vagas :)
 - 📫 Email de contato: gabriel.lima.almeida@gmail.com
 - 📜 Lattes: http://lattes.cnpq.br/9228271634024411
 
