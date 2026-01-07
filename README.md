@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/JFooley">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFooley&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFooley"/>
 </div>
   
 <div align="center">
