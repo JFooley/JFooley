@@ -1,4 +1,4 @@
-### Olá :) 
+### Olá 
  
 - ❓ Me chamo João Gabriel, sou estudante de Engenharia de Computação pela UEFS (BA), amante de gatos, Zelda e artista nas horas vagas :) 
 - 📫 Email de contato: gabriel.lima.almeida@gmail.com
@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/JFooley">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFooley&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFooley&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
   
 <div align="center">
